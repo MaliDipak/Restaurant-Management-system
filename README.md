@@ -16,4 +16,24 @@ User is able to book a table through the website.
 Included the feedback Survey form to increase the scope of improvement**
 
 **Screenshots 📸**
+### Home page -   
+![](imgg/home.png)
+### Booking page -
+![](imgg/Booking.png)
+### Login page -
+![](imgg/login.png)
+### Overview page -
+![](imgg/overview.png)
+### Payment page -
+![](imgg/payment.png)
+### Video page -
+![](imgg/video.png)
+
+## Tech Stack 💻
+
+- [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
+- HTML
+- CSS
+- Bootstrap
+- php
 
