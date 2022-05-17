@@ -16,5 +16,4 @@ User is able to book a table through the website.
 Included the feedback Survey form to increase the scope of improvement**
 
 **Screenshots 📸**
-**Home page -**
 
