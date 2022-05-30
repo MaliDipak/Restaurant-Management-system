@@ -1,41 +1,33 @@
-# ✨Online-Restaurant-Management✨
-This is a web based application developed for a Hotel work management.
-**This web based restaurant application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.**
+# <a href="https://restorent-management.azurewebsites.net">Restaurant management system</a>
 
-Project Link -  https://restorent-management.azurewebsites.net 
-                
-Git hub  -      https://lalitt08.github.io/Restaurant-Management/
+This is 1 Page Front End website design
+
+Web Technologies used: HTML, CSS, JS, 
 
 
 
-**Features and Functionalities 😃**
+### Industry :
+Lifestyle
 
-Interactive and responsive UI.
-Has many graphical and visual innovative effects.
-Have an aesthetically pleasing visual design and architecture.
-Has collection of many web pages including Home, Booking, login, ovrview, video pages etc.
-manager is able to handle a restorent through the website.
-Included the feedback Survey form to increase the scope of improvement**
 
-**Screenshots 📸**
-### Home page -   
-![](imgg/home.png)
-### Booking page -
-![](imgg/Booking.png)
-### Login page -
-![](imgg/login.png)
-### Overview page -
-![](imgg/overview.png)
-### Payment page -
-![](imgg/payment.png)
-### Video page -
-![](imgg/video.png)
+### Project Title :
+Restaurant management system
 
-## Tech Stack 💻
+### Problem Statement/Opportunity :
+A restaurant management system site company wants to build a sample Front End prototype website for their business as the online food industry has been growing at an incredible rate, and so have grown challenges. To build a whole website they have chosen Azure Cloud Platform. 
 
-- [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
-- HTML
-- CSS
-- Bootstrap
-- php
+
+### Project Description :
+Core Idea of Project is to build an sample prototype restaurant management system website with the help of HTML, CSS and JS. The business-to-consumer aspect of product  (restaurant management system) is the most visible business use of the World Wide Web. The primary goal of sample prototype an restaurant management system is to provide contents online with solving problems of customer solution.
+### Primary Azure Technology :
+Static Web Apps
+
+
+Other Azure Technologies :
+App Service
+
+<a href="https://futurereadytalent.in/"><p align= "center"><img src="https://github.com/ROHAN0011/Microsoft-Future-Ready-Talent-Internship-Project/blob/5ae1e52f4f4236d8ca92ea9189794835ce087467/FRT.jpeg" width="700" height= "350"></p></a> 
+
+
+
 
